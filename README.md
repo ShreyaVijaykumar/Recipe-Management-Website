@@ -67,8 +67,6 @@ Features include **user authentication**, **image uploads**, **allergen tracking
 
 ---
 
-📂 Project Structure
-
 ## 📂 Project Structure
 
 ```text
@@ -88,7 +86,7 @@ recipe-management-system/
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 - Fork the repository
 1) Create a feature branch
@@ -109,7 +107,7 @@ recipe-management-system/
 
 ---
 
-👥 Contributors
+## 👥 Contributors
 
 - [Shreya Vijaykumar](https://github.com/ShreyaVijaykumar)  
 - [Shaik Arbaaz](https://github.com/ShaikArbaaz)
