@@ -30,7 +30,7 @@ Features include **user authentication**, **image uploads**, **allergen tracking
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ShreyaVijaykumar/RECIPE-MANAGEMENT-WEBSITE.git
+   git clone https://github.com/ShreyaVijaykumar/Recipe-Management-Website.git
    ```
    
 2. **Navigate to the project directory**
