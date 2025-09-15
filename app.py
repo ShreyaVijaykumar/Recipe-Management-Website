@@ -9,7 +9,7 @@ def get_db_connection():
     return mysql.connector.connect(
         host="localhost",  # Your MySQL server host
         user="root",       # Your MySQL username
-        password="Student@123",  # Your MySQL password
+        password="password",  # Your MySQL password
         database="recipe_manager"  # The database you're using
     )
 
@@ -149,4 +149,5 @@ def profile():
 
 if __name__ == '__main__':
     init_db()  # Initialize the database when the app starts
+
     app.run(debug=True)
