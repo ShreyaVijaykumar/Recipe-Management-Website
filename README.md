@@ -69,6 +69,9 @@ Features include **user authentication**, **image uploads**, **allergen tracking
 
 📂 Project Structure
 
+## 📂 Project Structure
+
+```text
 recipe-management-system/
 ├── templates/
 │   ├── index.html
@@ -81,6 +84,7 @@ recipe-management-system/
 ├── app.py
 ├── recipes.db
 ├── README.md
+```
 
 ---
 
