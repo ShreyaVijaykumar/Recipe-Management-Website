@@ -68,6 +68,7 @@ Features include **user authentication**, **image uploads**, **allergen tracking
 ---
 
 📂 Project Structure
+
 recipe-management-system/
 ├── templates/
 │   ├── index.html
